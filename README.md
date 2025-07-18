@@ -12,6 +12,7 @@ I am Full stack developer. I coded 1+ year. And I love coding.
 
 <a href="https://www.github.com/noenough" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/noenough?logo=github&style=for-the-badge&color=000000&labelColor=171717" /></a>
+
 ### Skills
 
 <p align="left">
@@ -21,6 +22,7 @@ src="https://img.shields.io/github/followers/noenough?logo=github&style=for-the-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/noenough" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.youtube.com/@delisional_it" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -33,7 +35,10 @@ src="https://img.shields.io/github/followers/noenough?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/noenough/Innovation-Freaks-chat-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=noenough&repo=Innovation-Freaks-chat-app&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/noenough/ynote" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=noenough&repo=ynote&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/noenough/Innovation-Freaks-chat-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=noenough&repo=Innovation-Freaks-chat-app&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=171717&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/noenough/ynote" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=noenough&repo=ynote&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=171717&hide_border=true&locale=en" /></a></div>
+  <br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
