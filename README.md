@@ -7,7 +7,7 @@ Mobile Dev
 I am Full stack developer. I coded 1+ year. And I love coding.
 
 * 🌍  I'm based in Turkmenistan
-* 🤝  I'm open to collaborating on Innovation Freaks
+* 🤝  I'm open to collaborating on Yedi24
 * ⚡  I'm psycho and anyone don't know this info
 
 <a href="https://www.github.com/noenough" target="_blank" rel="noreferrer"><img
